@@ -23,6 +23,7 @@
 # [ ] 5. Reemplazar el CMD con la backdoor de netcat
 #        → Sustituir por un servidor legítimo, p.ej. python3 -m http.server
 #
+#
 # =============================================
 
 # === IMAGEN BASE ===
